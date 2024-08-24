@@ -1,0 +1,168 @@
+.{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    background-image: url(back.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.tx1{
+text-align: center;
+font-family: Arial, Helvetica, sans-serif;
+font-size: medium;
+
+}
+.tx2{
+    margin-top: 5px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 4cap;
+}
+.ul{
+    text-decoration: underline;
+    color: blue;
+}
+.tx3{
+    text-align: center;
+    text-shadow: 5cap;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 25px;
+    word-spacing: 2px ;
+    font-size: 2cap;
+}
+.container{
+    display:flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    
+}
+.box1{
+    margin: 10px;
+    height: 410px;
+    width: 280px;
+    background-color:rgb(55, 55, 146);
+    border:1px solid black;
+    border-radius:30px ;
+    border-style: groove;
+    color:aliceblue;
+    padding: 10px;
+    box-shadow: 10px 10px 9px white;
+}
+.head1{
+    font-weight: bolder;
+    margin: 0px !important;
+    font-size: 3cap;
+
+}
+.list1{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif ;
+    font-weight:lighter;
+    margin-top: 10px;
+    line-height: 16px;
+}
+
+
+.i2{font-weight: bolder;
+    margin: 0px !important;
+    font-size: 3cap;
+
+}
+.lat1 {
+    
+    border: 2px solid black;
+    border-radius: 10px;
+    height:50px;
+    width:200px;
+    background-color: aquamarine;
+    color: black;
+    border-radius: 20px;
+    margin-top: 50px;
+    margin-left: 40px;
+    font-size:medium;
+    background-color: azure;
+    align-content: center;
+    text-align: center;
+  
+}
+.h5{
+   margin-top:-10px ;}
+   
+   .box2{
+    margin: 20px;
+    margin-left: 40px;
+    height: 400px;
+    width: 280px;
+    background-color: ;
+    border:1px solid brown;
+    border-radius:30px ;
+    border-style: groove;
+    color:black;
+    padding: 10px;
+     box-shadow: 1px 1px 9px black;
+}
+.head2{ 
+    font-weight: bolder;
+    margin: 0px !important;
+    font-size: 3cap;
+
+
+}
+.lat2 {
+    
+    border: 2px solid black;
+    border-radius: 10px;
+    height:50px;
+    width:200px;
+    background-color: aquamarine;
+    color: black;
+    border-radius: 20px;
+    margin-top: 40px;
+    margin-left: 50px;
+    font-size: medium;
+    background-color:yellow;
+    align-content: center;
+    text-align: center;
+  
+}  .box3{
+    margin: 10px;
+    height: 400px;
+    width: 280px;
+    background-color: white;
+    border:1px solid brown;
+    border-radius:30px ;
+    border-style: groove;
+    color:black;
+    padding: 10px;
+     box-shadow: 1px 1px 9px black;
+}
+.head3{ 
+    font-weight: bolder;
+    margin: 0px !important;
+    font-size: 3cap;
+
+
+}
+.lat3{
+    
+    border: 2px solid black;
+    border-radius: 10px;
+    height:50px;
+    width:200px;
+    background-color: rgb(111, 0, 255);
+    color: rgb(243, 236, 236);
+    border-radius: 20px;
+    margin-top: 30px;
+    margin-left: 50px;
+    font-size:medium;
+    background-color:rgb(48, 17, 121);
+    align-content: center;
+    text-align: center;
+  
+}
+
+
+
+
